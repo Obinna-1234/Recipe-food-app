@@ -21,7 +21,7 @@ The Recipe Book Application is a dynamic platform for discovering, organizing, a
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Obinna-1234/Recipe-food-app.git)
+   git clone https://github.com/Obinna-1234/Recipe-food-app.git
    ```
 2. Navigate to the project folder:
    ```bash
